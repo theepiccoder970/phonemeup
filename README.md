@@ -1,0 +1,1 @@
+oh hi this might be bugged but if it works then type in your perm port that it gave you and whoervers port you want to talk to and if you or the other person closes in terminal then it ends. to install do $ pip3 install phonemeup
